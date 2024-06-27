@@ -1,7 +1,7 @@
 @echo off
 
 rem Set the directory path where zip files are located
-set "sourceDir=C:\Users\c2tlha\Desktop\DATA ENGINEERING PROJECT\Dataset\terencicp"
+set "sourceDir=C:\Users\c2tlha\Desktop\data-engineering\Dataset\terencicp"
 
 rem Check if source directory exists
 if not exist "%sourceDir%" (

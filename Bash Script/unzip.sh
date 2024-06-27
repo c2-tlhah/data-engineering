@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the directory path where zip files are located
-sourceDir="/home/user/Desktop/DATA ENGINEERING PROJECT/Dataset/terencicp"
+sourceDir="/home/user/Desktop/data-engineering/Dataset/terencicp"
 
 # Check if source directory exists
 if [ ! -d "$sourceDir" ]; then

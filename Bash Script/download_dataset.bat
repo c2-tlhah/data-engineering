@@ -8,7 +8,7 @@ rem Specify the dataset to download
 set dataset=terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database
 
 rem Destination directory
-set destination=C:\Users\c2tlha\Desktop\DATA ENGINEERING PROJECT\Dataset\terencicp
+set destination=C:\Users\c2tlha\Desktop\data-engineering\Dataset\terencicp
 
 rem Ensure destination directory exists
 mkdir "%destination%"
